@@ -1,2 +1,2 @@
 # Rust-practice
-Let’s learn rust
+Can't spell trust without rust
